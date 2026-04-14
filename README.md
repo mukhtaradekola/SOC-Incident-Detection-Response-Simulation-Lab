@@ -21,7 +21,7 @@ The objective was to simulate Tier 1 SOC analyst responsibilities such as alert 
 ## 📊 Performance Metrics
 
 ### 🔍 Detection Accuracy
-![Detection Metrics](https://github.com/mukhtaradekola/SOC-Incident-Detection-Response-Simulation-Lab/blob/main/metrics.jpeg)
+![Detection Metrics](metrics.jpeg)
 
 - True Positive Rate: **94%**
 - False Positive Accuracy: **100%**
@@ -36,7 +36,7 @@ Correctly identified malicious activities including:
 - Unauthorized script execution  
 - Network-based anomalies  
 
-![True Positives](./images/true-positives.jpg)
+![True Positives](true-positives.jpeg)
 
 ---
 
@@ -45,7 +45,7 @@ Accurately classified benign alerts such as:
 - Legitimate external email communications  
 - Normal system process behavior  
 
-![False Positives](./images/false-positives.jpg)
+![False Positives](false-positives.jpeg)
 
 ---
 
