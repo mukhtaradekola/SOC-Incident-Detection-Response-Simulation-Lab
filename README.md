@@ -71,22 +71,29 @@ This simulation includes multiple SOC-focused labs:
 
 ## 🔍 Investigation Approach
 
-For each alert, I followed a structured methodology:
+For each alert, I followed a structured SOC methodology:
 
-1. **Alert Triage**
+1. **Alert Intake & Ownership**
+   - Assigned and acknowledged alerts for investigation  
+   - Established responsibility for tracking the alert lifecycle  
+
+2. **Alert Triage**
    - Reviewed severity, alert type, and context  
+   - Prioritized alerts based on potential impact  
 
-2. **Log Analysis**
-   - Analyzed event logs and telemetry data  
+3. **Log Analysis**
+   - Analyzed event logs and telemetry data across multiple sources  
 
-3. **Threat Validation**
+4. **Threat Validation**
    - Identified Indicators of Compromise (IOCs)  
+   - Correlated findings with known attack patterns  
 
-4. **Classification**
-   - Determined True Positive vs False Positive  
+5. **Classification**
+   - Determined whether alerts were True Positives or False Positives  
 
-5. **Reporting**
-   - Documented findings with clear timelines and impact  
+6. **Reporting & Documentation**
+   - Documented findings with clear timelines, affected systems, and impact  
+   - Provided recommendations for remediation or further investigation  
 
 ---
 
