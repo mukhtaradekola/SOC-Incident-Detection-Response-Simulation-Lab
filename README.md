@@ -59,13 +59,17 @@ Accurately classified benign alerts such as:
 
 ## 🧪 Scenarios Covered
 
-This simulation includes multiple SOC-focused labs:
+This simulation includes multiple SOC-focused labs and real-world attack scenarios:
 
-- Phishing Email Investigation  
-- Command & Control Detection (C2)  
-- Endpoint Process Analysis  
-- Network Traffic Analysis  
-- SOC Chaos Simulation  
+- Phishing Email Investigation (spoofing, malicious links, social engineering, typosquatting & homoglyph attacks)
+- Command & Control (C2) Detection
+- Brute Force Attacks (authentication abuse and failed login analysis)
+- Lateral Movement Detection
+- Privilege Escalation Attempts
+- Endpoint Process Analysis (suspicious parent-child processes)
+- Network Traffic Analysis (PCAP investigation, anomalous traffic)
+- Defense Evasion Techniques
+- SOC Chaos Simulation (mixed alert environments)
 
 ---
 
