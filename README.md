@@ -21,8 +21,8 @@ The objective was to simulate Tier 1 SOC analyst responsibilities such as alert 
 ## 📊 Performance Metrics
 
 ### 🔍 Detection Accuracy
+![Detection Metrics](metrics.jpeg)
 ![Detection Metrics](metrics1.jpeg)
-![Detection Metrics]()
 
 - True Positive Rate: **94%**
 - False Positive Accuracy: **100%**
