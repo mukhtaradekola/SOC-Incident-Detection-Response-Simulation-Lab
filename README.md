@@ -21,7 +21,7 @@ The objective was to simulate Tier 1 SOC analyst responsibilities such as alert 
 ## 📊 Performance Metrics
 
 ### 🔍 Detection Accuracy
-![Detection Metrics](./images/metrics.jpg)
+![Detection Metrics](https://github.com/mukhtaradekola/SOC-Incident-Detection-Response-Simulation-Lab/blob/main/metrics.jpeg)
 
 - True Positive Rate: **94%**
 - False Positive Accuracy: **100%**
