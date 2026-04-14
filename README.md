@@ -10,7 +10,7 @@ The objective was to simulate Tier 1 SOC analyst responsibilities such as alert 
 
 ## 🎯 Key Achievements
 
-- Investigated **70+ security alerts** across multiple scenarios  
+- Investigated **30+ security alerts** across multiple scenarios  
 - Achieved **94% true positive identification rate**  
 - Maintained **100% false positive accuracy**  
 - Average **mean time to resolve: 7 minutes**  
