@@ -6,6 +6,13 @@ I investigated multiple real-world attack scenarios including phishing, command-
 
 The objective was to simulate Tier 1 SOC analyst responsibilities such as alert triage, threat detection, incident investigation, and reporting.
 
+## 🖥️ SIEM Dashboard Overview
+The dashboard below was used during one of the SOC simulation labs to monitor and triage alerts, analyze severity levels, and prioritize incident response activities based on real-time security events.
+
+![SIEM Dashboard](siem-dashboard.jpeg)
+
+This dashboard was used to monitor alerts, analyze severity levels, and prioritize incident response activities based on real-time security events.
+
 ---
 
 ## 🎯 Key Achievements
