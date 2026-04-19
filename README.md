@@ -129,9 +129,6 @@ For each alert, I followed a structured SOC methodology:
 
 ---
 
-
----
-
 ## 📌 Note
 
 All scenarios were conducted in a controlled lab environment for learning and skill development purposes.
